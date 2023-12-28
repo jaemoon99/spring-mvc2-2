@@ -11,6 +11,6 @@ import java.io.IOException;
 public class MemberFormControllerV2 implements ControllerV2 {
     @Override
     public MyView process(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        return new MyView("WEB-INF/views/new-form.jsp");
+        return new MyView("/WEB-INF/views/new-form.jsp");
     }
 }
