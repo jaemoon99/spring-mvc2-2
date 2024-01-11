@@ -1,5 +1,5 @@
-<h1>Spring MVC Part 1 - Backend Web Development Key Technology</h1>
-<h3>The duration of the course: 2023. 12. 27 ~ 2023. 12. 30</h3>
-[course page](https://www.inflearn.com/course/스프링-mvc-1)
+<h1>Spring MVC Part 2 - Backend Web Development Technology</h1>
+<h3>The duration of the course: 2023. 01. 04 ~ 2023. 01. 11</h3>
+[course page](https://www.inflearn.com/course/스프링-mvc-2)
 
-[Section Range](section 7)
+[Section Range](section 2)
